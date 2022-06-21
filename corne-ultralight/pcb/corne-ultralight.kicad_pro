@@ -351,7 +351,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "corne-light.kicad_pro",
+    "filename": "corne-ultralight.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -405,7 +405,9 @@
           "+BATT",
           "+BATTA",
           "GND",
-          "GNDA"
+          "GNDA",
+          "Net-(BATJ1-Pad2)",
+          "Net-(BATJ3-Pad2)"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
