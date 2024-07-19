@@ -7,3 +7,6 @@
 [submodule "corne-ultralight/pcb/kbd"]
 	path = corne-ultralight/pcb/kbd
 	url = https://github.com/foostan/kbd
+[submodule "corne-wireless-chocolate/pcb/kbd"]
+	path = corne-wireless-chocolate/pcb/kbd
+	url = git@github.com:foostan/kbd.git
