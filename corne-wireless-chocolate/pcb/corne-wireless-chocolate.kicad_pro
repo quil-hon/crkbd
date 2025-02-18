@@ -81,6 +81,7 @@
         "footprint_type_mismatch": "error",
         "hole_clearance": "error",
         "hole_near_hole": "ignore",
+        "holes_co_located": "warning",
         "invalid_outline": "ignore",
         "isolated_copper": "warning",
         "item_on_disabled_layer": "error",
@@ -455,7 +456,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "corne-ultralight.kicad_pro",
+    "filename": "corne-wireless-chocolate.kicad_pro",
     "version": 1
   },
   "net_settings": {
